@@ -8,4 +8,4 @@ Gaicuotiankong 库里是程序改错类的题目
 学校：成都信息工程大学  
 专业：计算机科学与技术  
 课程名：C语言程序设计A  
-欢迎访问本人博客：https://zylhl.github.io
+欢迎访问本人博客：https://www.linkmc.cloud
